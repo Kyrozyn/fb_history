@@ -1,0 +1,50 @@
+49.213.16.161 | ian | ian
+49.213.16.193 | erwin | erwin
+49.213.18.171 | coba | coba
+49.213.19.11 | admin | admin
+49.213.19.120 | akbar | akbar
+49.213.20.117 | siti | siti
+49.213.23.190 | tomi | tomi
+49.213.18.102 | toshiba | Toshiba
+49.213.21.205/rudi
+nama =rudi
+pass =rudi
+squid=128.199.150.25
+49.213.16.161 | ian | ian | Singapore (SG)
+49.213.17.152 | test | test | Singapore (SG)
+49.213.19.102 | 1 | 1 | Singapore (SG)
+49.213.20.115 | coba | coba | Singapore (SG)
+49.213.20.194 | 1 | 1 | Singapore (SG)
+SG Telin : 45.64.97.131 | ilham | ilham
+
+SG.GS : 49.213.19.120 | ferdy | ferdy
+
+SG.DO : 128.199.153.249 | ibnu | ibnu
+49.213.18.114
+u/p coba
+49.21.3.20.115
+u/p coba
+49.213.22.38
+u/p coba
+49.213.22.39
+u/p trial
+Langsung aja gangbang bareng bareng nih SSH SG
+Host : 49.213.18.151
+User : ihsan
+Password : ihsan
+Port: 443, 22, 143,
+Port: 443, 22, 143,
+Host : 49.213.21.205
+User : rudi
+Password : rudi
+Port: 443, 22, 143,
+Aktif sampai coid
+49.213.18.151 | ihsan | ihsan
+port ssh: 443
+
+49.213.21.205 | amir | amir
+port ssh: 443
+49.213.16.171 nisa nisa
+HOST : 37.122.252.30
+USER : uk.newinject.com
+PASS : 46
